@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.7.0">
+<eagle version="9.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -18501,7 +18502,7 @@ conflicts.&lt;/p&gt;
 <sheet>
 <plain>
 <text x="166.37" y="11.684" size="2.54" layer="94" font="vector">N. Seidle</text>
-<text x="236.22" y="7.62" size="2.032" layer="94" font="vector" ratio="10">v01</text>
+<text x="236.22" y="7.62" size="2.032" layer="94" font="vector" ratio="10">v10</text>
 <text x="71.12" y="132.08" size="3.048" layer="97" font="vector" ratio="12" align="center">Qwiic Connectors</text>
 <text x="195.58" y="111.76" size="1.778" layer="97" font="vector" align="center">Default 7-Bit I2C Address: 0x70
 ADR lines can be set  with below jumpers 
@@ -18562,6 +18563,8 @@ if multiple multiplexers are needed</text>
 <text x="168.148" y="7.366" size="2.54" layer="94" font="vector">A. England</text>
 <wire x1="147.32" y1="35.56" x2="147.32" y2="185.42" width="0.1524" layer="97" style="longdash"/>
 <wire x1="149.86" y1="185.42" x2="147.32" y2="185.42" width="0.1524" layer="97" style="longdash"/>
+<text x="200.66" y="170.18" size="1.016" layer="97" font="vector">Clear jumper JP4 to 
+remove I2C pullup resistors</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
