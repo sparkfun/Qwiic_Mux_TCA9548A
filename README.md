@@ -1,4 +1,4 @@
-SparkFun Qwiic Mux PCA9548A
+SparkFun Qwiic Mux TCA9548A
 ========================================
 
 ![SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A)](https://cdn.sparkfun.com/assets/parts/1/2/8/9/0/14685-SparkFun_Qwiic_Mux_Breakout_-_8_Channel__TCA9548A_-01.jpg)
@@ -16,7 +16,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-mux-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic Mux PCA9548A.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-mux-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic Mux TCA9548A.
 
 Product Versions
 ----------------
