@@ -20,8 +20,8 @@ Documentation
 
 Product Versions
 ----------------
-* [BOB-14685](https://www.sparkfun.com/products/14685)- SparkFun red version
-* [SPX-14293](https://www.sparkfun.com/products/14293)- SparkX version
+* [BOB-14685](https://www.sparkfun.com/products/14685)- SparkFun red version with TCA9548A
+* [SPX-14293](https://www.sparkfun.com/products/14293)- SparkX version with PCA9548A
 
 License Information
 -------------------
