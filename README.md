@@ -5,7 +5,7 @@ SparkFun Qwiic Mux TCA9548A
 
 [*SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A) (BOB-14685)*](https://www.sparkfun.com/products/14685)
 
-<Basic description of the part.>
+The Qwiic Mux Breakout enables communication with multiple I2C devices that have the same address that makes it simple to interface with. The Qwiic Mux also has eight configurable addresses of its own, allowing for up to 64 I2C buses on a connection. To make it even easier to use this multiplexer, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system.
 
 Repository Contents
 -------------------
