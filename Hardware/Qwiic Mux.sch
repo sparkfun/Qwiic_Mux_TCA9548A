@@ -18615,7 +18615,7 @@ conflicts.&lt;/p&gt;
 <sheet>
 <plain>
 <text x="166.37" y="11.684" size="2.54" layer="94" font="vector">N. Seidle</text>
-<text x="236.22" y="7.62" size="2.032" layer="94" font="vector" ratio="10">v1.1</text>
+<text x="236.22" y="7.62" size="2.032" layer="94" font="vector" ratio="10">v11</text>
 <text x="71.12" y="132.08" size="3.048" layer="97" font="vector" ratio="12" align="center">Qwiic Connectors</text>
 <text x="195.58" y="111.76" size="1.778" layer="97" font="vector" align="center">Default 7-Bit I2C Address: 0x70
 ADR lines can be set  with below jumpers 
