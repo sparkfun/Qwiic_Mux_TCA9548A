@@ -3850,7 +3850,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="31.75" y1="40.132" x2="30.4871" y2="40.132" width="0.6096" layer="1"/>
 <wire x1="30.4871" y1="40.132" x2="30.47921875" y2="40.13988125" width="0.1778" layer="1"/>
 <via x="21.59" y="33.02" extent="1-16" drill="0.381"/>
-<wire x1="21.59" y1="33.02" x2="29.21" y2="33.02" width="0.3048" layer="16"/>
+<wire x1="21.59" y1="33.02" x2="29.21" y2="33.02" width="0.6096" layer="16"/>
 <wire x1="29.21" y1="33.02" x2="30.48" y2="34.29" width="0.6096" layer="16"/>
 <via x="30.48" y="34.29" extent="1-16" drill="0.381"/>
 <wire x1="30.48" y1="34.29" x2="31.75" y2="34.29" width="0.6096" layer="1"/>
