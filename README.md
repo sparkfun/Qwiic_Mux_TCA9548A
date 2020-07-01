@@ -1,4 +1,4 @@
-SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A)
+SparkFun Qwiic Mux Breakout V2 - 8 Channel (TCA9548A)
 ========================================
 <!-- Update
 ![SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A)](https://cdn.sparkfun.com/assets/parts/1/5/6/8/9/16784-SparkFun_Qwiic_Mux_Breakout_V2_-_8_Channel__TCA9548A_-01.jpg)
